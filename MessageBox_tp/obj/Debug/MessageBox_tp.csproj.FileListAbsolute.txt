@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\obj\Debug\MessageBox_tp.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\obj\Debug\MessageBox_tp.MainForm.resources
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\obj\Debug\MessageBox_tp.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\bin\Debug\MessageBox_tp.exe.config
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\bin\Debug\MessageBox_tp.exe
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\bin\Debug\MessageBox_tp.pdb
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\obj\Debug\MessageBox_tp.exe
+C:\Users\PC\Documents\SharpDevelop Projects\MessageBox_tp\MessageBox_tp\obj\Debug\MessageBox_tp.pdb
